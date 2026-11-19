@@ -78,8 +78,8 @@ public abstract class Empleado
 
     
     public String VerInfo() {
-        return "Tipo: " + tipo + 
-                "\nNombre: " + nom + 
+        return "Tipo:  " + tipo + 
+                "\nNombre:  " + nom + 
                 "\ndire: " + dire + 
                 "\nsueldoB: " + sueldoB + 
                 "\nsueldoP: " + sueldoP + 
